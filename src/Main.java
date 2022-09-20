@@ -11,7 +11,7 @@ public class Main {
 
         double total = price + tax;
 
-        System.out.println("total tax on your price will be " + tax + " and total price of item will be " + total);
+        System.out.println("total tax on your price will be " + tax + " and total price of item will be " + total + " for the item provided of price " + price);
 
 
 
